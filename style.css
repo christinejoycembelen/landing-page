@@ -1,0 +1,19 @@
+body {
+    font-family: Roboto;
+    margin: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+
+.section-1 {
+    background-color: #1f2937;
+}
+
+.section-3 {
+    background-color: #e5e7eb;
+}
+
+.footer {
+    background-color: #1f2937;
+}
