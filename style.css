@@ -2,12 +2,34 @@ body {
     font-family: Roboto;
     margin: 0;
     box-sizing: border-box;
-    display: flex;
-    flex-direction: column;
+}
+
+p {
+    margin: 0;
 }
 
 .section-1 {
     background-color: #1f2937;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 200px;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: bold;
+}
+
+.header-links {
+    display: flex;
+    font-size: 18px;
+    color: #e5e7eb;
+    gap: 25px;
 }
 
 .section-3 {
