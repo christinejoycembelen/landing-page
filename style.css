@@ -143,6 +143,39 @@ p {
     font-size: 20px;
 }
 
+.section-4 {
+    padding: 75px 300px;
+}
+
+.blue {
+    background-color: #3882f6;
+    padding: 35px 100px;
+    display: flex;
+    justify-content: space-between;
+    color: #f9faf8;
+    border-radius: 7px;
+}
+
+.blue-left-a {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.blue-right {
+    align-self: center;
+}
+
+.sign-up {
+    border: solid 2px;
+    padding: 5px 25px;
+    background-color: #3882f6;
+    border-color: #f9faf8;
+    color: #f9faf8;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 8px;
+}
+
 .footer {
     background-color: #1f2937;
 }
