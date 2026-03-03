@@ -17,6 +17,9 @@ p {
     justify-content: space-between;
     align-items: center;
     padding: 15px 200px;
+    position: sticky;
+    top: 0;
+    background-color: #1F2937;
 }
 
 .header-logo {
@@ -178,4 +181,7 @@ p {
 
 .footer {
     background-color: #1f2937;
+    color: #f9faf8;
+    padding: 35px;
+    text-align: center;
 }
